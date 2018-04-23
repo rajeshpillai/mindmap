@@ -1,0 +1,13 @@
+#canvas {
+    background-color: black;
+  }
+  
+  #canvasWrapper {
+  
+  }
+  
+  .btn-add {
+    position: relative;
+    background-color: yellow;
+    border-radius: 50%;
+  }

@@ -1,0 +1,16 @@
+{
+  "name": "mindmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    
+  },
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
